@@ -1,1 +1,1 @@
-QR code api using for this project
+`QR code api using in my project`
